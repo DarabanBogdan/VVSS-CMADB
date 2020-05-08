@@ -1,0 +1,412 @@
+
+@
+java:S1166_"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ
+]
+java:S1106Ç"AMove this left curly brace to the beginning of next line of code.(êøÃ—ûÿÿÿÿ
+`
+java:S1120©"DMake this line start after 4 spaces to indent the code consistently.(ÚåÏ¾üÿÿÿÿ
+`
+java:S1120A"EMake this line start after 10 spaces to indent the code consistently.(Êçûùÿÿÿÿ
+?
+java:S2143:")Use the Java 8 Date and Time API instead.(”´­Š
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ğœê†úÿÿÿÿ
+`
+java:S1120‚"DMake this line start after 6 spaces to indent the code consistently.(Ëç¸€úÿÿÿÿ
+Z
+java:S11204"DMake this line start after 6 spaces to indent the code consistently.(”Ñğ¼
+…
+java:S1541¨"iThe Cyclomatic Complexity of this method "getIntervalFromText" is 19 which is greater than 10 authorized.(œÂÁñøÿÿÿÿ
+`
+java:S1120€"DMake this line start after 6 spaces to indent the code consistently.(Á‰Æûÿÿÿÿ
+`
+java:S1120•"DMake this line start after 4 spaces to indent the code consistently.(ÔÑ£½üÿÿÿÿ
+`
+java:S1120È"DMake this line start after 6 spaces to indent the code consistently.(éäŠıÿÿÿÿ
+^
+java:S1774²"GConvert this usage of the ternary operator to an "if"/"else" structure.(¼ë›®
+W
+java:S1106·"AMove this left curly brace to the beginning of next line of code.(ïĞ¿b
+V
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(˜£­
+_
+java:S1106Ò"AMove this left curly brace to the beginning of next line of code.(”¾–8•ıö“.
+_
+java:S1106Ş"AMove this left curly brace to the beginning of next line of code.(˜Ôğ—8•ıö“.
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ËÒÌıøÿÿÿÿ
+a
+java:S1107…"KMove this "finally" on the same line that the previous closing curly brace.(˜£­
+d
+java:S1107_"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ
+>
+java:S1943‹"'Remove this use of "java.io.FileReader"(ı¸’
+]
+java:S3027ß"FPut single-quotes around '[' to use the faster "indexOf(char)" method.(÷…‹
+[
+java:S1120·"DMake this line start after 6 spaces to indent the code consistently.(ĞåÄá
+]
+java:S1106‚"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ
+_
+java:S1106»"AMove this left curly brace to the beginning of next line of code.(¬ÂÔæ8•ıö“.
+W
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(÷Õ‘€
+V
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(˜£­
+]
+java:S1106ë"AMove this left curly brace to the beginning of next line of code.(ÊÎ—ÿÿÿÿÿÿ
+`
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(¿Ğûÿÿÿÿ
+_
+java:S1120j"DMake this line start after 6 spaces to indent the code consistently.(Öâ‚Ïúÿÿÿÿ
+`
+java:S1120¡"DMake this line start after 6 spaces to indent the code consistently.(¯Ÿ©¶úÿÿÿÿ
+_
+java:S11206"DMake this line start after 8 spaces to indent the code consistently.(ìôå‰ÿÿÿÿÿ
+_
+java:S1120."DMake this line start after 6 spaces to indent the code consistently.(€¦¯åÿÿÿÿÿ
+M
+java:S1109£"/Move this closing curly brace to the next line.(àéü8•ıö“.
+W
+java:S11065"AMove this left curly brace to the beginning of next line of code.(‹¡ô
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+Z
+java:S1120R"DMake this line start after 6 spaces to indent the code consistently.(ÌÔü¦
+Z
+java:S1120Z"DMake this line start after 4 spaces to indent the code consistently.(…Üê¦
+[
+java:S1120ò"DMake this line start after 4 spaces to indent the code consistently.(ïşß×
+]
+java:S1106è"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+a
+java:S1107"KMove this "finally" on the same line that the previous closing curly brace.(˜£­
+\
+java:S2259U"AA "NullPointerException" could be thrown; "fos" is nullable here.(æŒÕ®ùÿÿÿÿ
+j	java:S122ş"TAt most one statement is allowed per line, but 2 statements were found on this line.(ÌÜÏÄ
+e
+java:S1107¹"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ
+`
+java:S1107b"KMove this "finally" on the same line that the previous closing curly brace.(˜£­
+e
+java:S1107‚"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ
+`
+java:S1120´"DMake this line start after 6 spaces to indent the code consistently.(¬­°ëüÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+x
+java:S4174¿"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚Ïöç8•ıö“.
+^
+java:S1107%"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+_
+java:S1107â"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(áÿ¥œ
+[
+java:S1120º"DMake this line start after 6 spaces to indent the code consistently.(ÌÔü¦
+T	java:S864ª"9Add parentheses to make the operator precedence explicit.(Âå‰àúÿÿÿÿ
+d
+java:S1106Á"AMove this left curly brace to the beginning of next line of code.(åú‘üÿÿÿÿ8•ıö“.
+W
+java:S1106ñ"AMove this left curly brace to the beginning of next line of code.(šœšU
+W
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+^
+java:S1774°"GConvert this usage of the ternary operator to an "if"/"else" structure.(‡Şòš
+d
+java:S1107Q"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ
+W
+java:S1106@"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+W
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(¥Áøí
+]
+java:S3027ã"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(¶…¦
+[
+java:S1312"@Rename the "log" logger to comply with the format "LOG(?:GER)?".(á»ªêûÿÿÿÿ
+W
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(áÿ¥œ
+`
+java:S1120ü"DMake this line start after 4 spaces to indent the code consistently.(ö¸¾ßùÿÿÿÿ
+Q	java:S139¶"6Move this trailing comment on the previous empty line.(Ù é®şÿÿÿÿ
+[
+java:S1120Ì"DMake this line start after 8 spaces to indent the code consistently.(®„º
+\
+java:S11061"AMove this left curly brace to the beginning of next line of code.(ˆ¨ŸÚüÿÿÿÿ
+V
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(˜£­
+g
+java:S3027ó"KPut single-quotes around '\"' to use the faster "lastIndexOf(char)" method.(Ê·«Ãûÿÿÿÿ
+­
+java:S1200"‘Split this class into smaller and more specialized ones to reduce its dependencies on other classes from 22 to the maximum authorized 20 or less.(Ğœê†úÿÿÿÿ
+W
+java:S1106…"AMove this left curly brace to the beginning of next line of code.(˜£­
+[
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(¦ÈøÉ
+f
+java:S3027­"JPut single-quotes around '[' to use the faster "lastIndexOf(char)" method.(Šöèéıÿÿÿÿ
+^
+java:S1107@"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+x
+java:S4174Ñ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(°·ÙÛ8•ıö“.
+d
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·¿–‘ÿÿÿÿÿ8•ıö“.
+<
+java:S1943~"'Remove this use of "java.io.FileWriter"(Ê¬Ä9
+Z
+java:S1120Ú"DMake this line start after 4 spaces to indent the code consistently.(€ø°V
+A
+java:S1659©"%Declare "minutes" on a separate line.(ÚåÏ¾üÿÿÿÿ
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(£áîıÿÿÿÿ
+*	java:S121ş"Missing curly brace.(ÌÜÏÄ
+_
+java:S1120g"DMake this line start after 4 spaces to indent the code consistently.(î‡½æûÿÿÿÿ
+`
+java:S1107T"KMove this "finally" on the same line that the previous closing curly brace.(˜£­
+Q	java:S139Û"6Move this trailing comment on the previous empty line.(„Ú‹Àüÿÿÿÿ
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ôâ»Ô8’ÆÙ“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Á½İ³ıÿÿÿÿ
+\
+java:S1106["AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+Z
+java:S1120L"DMake this line start after 4 spaces to indent the code consistently.(æªÌ´
+\
+java:S11063"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+]
+java:S1106Œ"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+[
+java:S1120é"DMake this line start after 6 spaces to indent the code consistently.(şô¢¢
+Q	java:S139–"6Move this trailing comment on the previous empty line.(Ş›Üøÿÿÿÿ
+E
+java:S2093["*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+[
+java:S1120¸"DMake this line start after 6 spaces to indent the code consistently.(à½ï£
+W
+java:S1106f"AMove this left curly brace to the beginning of next line of code.(Ô¹¶
+Y
+java:S1120~"DMake this line start after 4 spaces to indent the code consistently.(Ê¬Ä9
+`
+java:S1107-"KMove this "finally" on the same line that the previous closing curly brace.(˜£­
+{
+java:S1192R"eDefine a constant instead of duplicating this literal "IO exception reading or writing file" 4 times.(ÌÔü¦
+b
+java:S1120–"DMake this line start after 6 spaces to indent the code consistently.( ×­É8•ıö“.
+\
+java:S1106_"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ
+]
+java:S1106¨"AMove this left curly brace to the beginning of next line of code.(œÂÁñøÿÿÿÿ
+[
+java:S1120É"DMake this line start after 8 spaces to indent the code consistently.(¯İ«œ
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¼ÌÔ;8’ÆÙ“.
+_
+java:S1120N"DMake this line start after 6 spaces to indent the code consistently.(Ö“¯úÿÿÿÿ
+\
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+d
+java:S1106Î"AMove this left curly brace to the beginning of next line of code.(§„ÒÙúÿÿÿÿ8•ıö“.
+E
+java:S2093M"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+C
+java:S2208".Explicitly import the specific classes needed.(¬›ãD
+Q	java:S139¯"6Move this trailing comment on the previous empty line.(Ç¼Ììùÿÿÿÿ
+c
+java:S1774±"GConvert this usage of the ternary operator to an "if"/"else" structure.(Á—å´ùÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(İ–ë“ûÿÿÿÿ
+d
+java:S1106¤"AMove this left curly brace to the beginning of next line of code.(½’‘şÿÿÿÿ8•ıö“.
+Y
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ü…¼z
+n
+java:S3776¨"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(œÂÁñøÿÿÿÿ
+_
+java:S1120s"DMake this line start after 4 spaces to indent the code consistently.(ÉĞı¶øÿÿÿÿ
+d
+java:S1106Ë"AMove this left curly brace to the beginning of next line of code.(ü“²úùÿÿÿÿ8•ıö“.
+d
+java:S3027ä"FPut single-quotes around '[' to use the faster "indexOf(char)" method.(†Ùí”8•ıö“.
+g
+java:S1120¢"DMake this line start after 6 spaces to indent the code consistently.(ÔĞ´õÿÿÿÿÿ8•ıö“.
+`
+java:S1120Ï"DMake this line start after 8 spaces to indent the code consistently.(ë›¿Ûùÿÿÿÿ
+Z
+java:S1120H"DMake this line start after 6 spaces to indent the code consistently.(ó¾¶ú
+_
+java:S1107 "HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(àÇ­Œ
+_
+java:S1120w"DMake this line start after 6 spaces to indent the code consistently.(¿ŞÛ üÿÿÿÿ
+X
+java:S1106â"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+]
+java:S1106”"AMove this left curly brace to the beginning of next line of code.(¿ÕÁüÿÿÿÿ
+]
+java:S1106”"AMove this left curly brace to the beginning of next line of code.(ì¯Øşÿÿÿÿ
+c
+java:S1774ª"GConvert this usage of the ternary operator to an "if"/"else" structure.(Âå‰àúÿÿÿÿ
+X
+java:S1106Ù"AMove this left curly brace to the beginning of next line of code.(£†Ê™
+f
+java:S3027®"JPut single-quotes around ']' to use the faster "lastIndexOf(char)" method.(®Ñ­Õúÿÿÿÿ
+b
+java:S1120¹"DMake this line start after 8 spaces to indent the code consistently.(Ì‚ˆÌ8•ıö“.
+\
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+[
+java:S1120ß"DMake this line start after 6 spaces to indent the code consistently.(÷…‹
+`
+java:S1120›"DMake this line start after 6 spaces to indent the code consistently.(¯Ÿ©¶úÿÿÿÿ
+W
+java:S1106Š"AMove this left curly brace to the beginning of next line of code.(Ùœ2
+Z
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(áäÒ›
+b
+java:S1120£"DMake this line start after 8 spaces to indent the code consistently.(àéü8•ıö“.
+c
+java:S1774³"GConvert this usage of the ternary operator to an "if"/"else" structure.(¦¦’şÿÿÿÿ
+F
+java:S2093Œ"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+d
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(ÔĞ´õÿÿÿÿÿ8•ıö“.
+X
+java:S1106Š"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+`
+java:S1120ì"DMake this line start after 6 spaces to indent the code consistently.(¹¨üÈüÿÿÿÿ
+\
+java:S2259c"AA "NullPointerException" could be thrown; "fis" is nullable here.(ß¶­†ÿÿÿÿÿ
+]
+java:S1106š"AMove this left curly brace to the beginning of next line of code.(èÄ»ñşÿÿÿÿ
+`
+java:S1120²"DMake this line start after 4 spaces to indent the code consistently.(ÉÛ¸¥ÿÿÿÿÿ
+;
+java:S1659¶"Declare "j" on a separate line.(Ù é®şÿÿÿÿ
+L
+java:S1109¥"/Move this closing curly brace to the next line.(®ÕêX8•ıö“.
+d
+java:S1106±"AMove this left curly brace to the beginning of next line of code.(ÿ¨éòşÿÿÿÿ8•ıö“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+V
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(˜£­
+X
+java:S1106¡"AMove this left curly brace to the beginning of next line of code.(ŞÅÅÃ
+`
+java:S1120Â"DMake this line start after 6 spaces to indent the code consistently.(§„è‡şÿÿÿÿ
+[
+java:S1120‹"DMake this line start after 6 spaces to indent the code consistently.(ÒÜ
+]
+java:S3027à"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(ÏÙã™
+A
+java:S1659©"%Declare "seconds" on a separate line.(ÚåÏ¾üÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜£­
+`
+java:S1107G"KMove this "finally" on the same line that the previous closing curly brace.(˜£­
+Z
+java:S1120`"DMake this line start after 6 spaces to indent the code consistently.(ÌÔü¦
+[
+java:S1120ƒ"DMake this line start after 6 spaces to indent the code consistently.(ÌÔü¦
+[
+java:S1120ã"DMake this line start after 6 spaces to indent the code consistently.(¶…¦
+b
+java:S1120•"DMake this line start after 4 spaces to indent the code consistently.(‡İ·â8•ıö“.
+`
+java:S1120&"EMake this line start after 10 spaces to indent the code consistently.(»ûßûÿÿÿÿ
+W
+java:S1106v"AMove this left curly brace to the beginning of next line of code.(ŞÙ»
+X
+java:S1106³"AMove this left curly brace to the beginning of next line of code.(€²ªâ
+]
+java:S1106¶"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+\
+java:S1106}"AMove this left curly brace to the beginning of next line of code.(€åÈÿÿÿÿÿ
+g
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(†½¥üÿÿÿÿ8•ıö“.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ğœê†úÿÿÿÿ
+A
+java:S1166¹"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ
+\
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(÷˜‡Üùÿÿÿÿ
+b
+java:S1120¼"DMake this line start after 8 spaces to indent the code consistently.(Â¨•ù8•ıö“.
+A
+java:S1166‚"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ
+Q	java:S139•"6Move this trailing comment on the previous empty line.(ÔÑ£½üÿÿÿÿ
+_
+java:S1120\"DMake this line start after 6 spaces to indent the code consistently.(ÓĞÊışÿÿÿÿ
+E
+java:S20933"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+K
+java:S14816"0Remove this unused "titleLength" local variable.(ìôå‰ÿÿÿÿÿ
+W
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(Œ€Ê
+4
+java:S1451"&Add or update the header of this file.
+X
+java:S1106¨"AMove this left curly brace to the beginning of next line of code.(ƒßÇ›
+D
+java:S2143=")Use the Java 8 Date and Time API instead.(ô§ğ…ùÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¤ó†¸ûÿÿÿÿ
+]
+java:S1106¹"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ
+`
+java:S1120Ó"DMake this line start after 8 spaces to indent the code consistently.(½†øÛúÿÿÿÿ
+_
+java:S1106•"AMove this left curly brace to the beginning of next line of code.(‡İ·â8•ıö“.
+_
+java:S1120U"DMake this line start after 6 spaces to indent the code consistently.(æŒÕ®ùÿÿÿÿ
+X
+java:S1106û"AMove this left curly brace to the beginning of next line of code.(˜üÜ£
+i
+java:S3027å"FPut single-quotes around ']' to use the faster "indexOf(char)" method.(¼ÅÈ¶ÿÿÿÿÿ8•ıö“.
+_
+java:S1106¸"AMove this left curly brace to the beginning of next line of code.(à½ï£8•ıö“.
+X
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(á¢–¬
+`
+java:S1120†"DMake this line start after 6 spaces to indent the code consistently.(§¾áïûÿÿÿÿ
+[
+java:S1120©"DMake this line start after 6 spaces to indent the code consistently.(¬Öİõ
+e
+java:S1107ë"IMove this "catch" on the same line that the previous closing curly brace.(ÊÎ—ÿÿÿÿÿÿ
+]
+java:S1774k"GConvert this usage of the ternary operator to an "if"/"else" structure.(¸¨ÍŸ
+a
+java:S1120¥"DMake this line start after 8 spaces to indent the code consistently.(®ÕêX8•ıö“.
+_
+java:S1107Š"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+]
+java:S1106È"AMove this left curly brace to the beginning of next line of code.(éäŠıÿÿÿÿ
+@
+java:S1166Q"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ
+I
+java:S2208	".Explicitly import the specific classes needed.(¸—äéùÿÿÿÿ
+H
+java:S2885"-Make "simpleDateFormat" an instance variable.(ËÒÌıøÿÿÿÿ
+_
+java:S11202"DMake this line start after 4 spaces to indent the code consistently.(ğúòÿúÿÿÿÿ
+[
+java:S1120""EMake this line start after 10 spaces to indent the code consistently.(òÛ¥Ø
+_
+java:S1120c"DMake this line start after 6 spaces to indent the code consistently.(ß¶­†ÿÿÿÿÿ
+`
+java:S1120="EMake this line start after 10 spaces to indent the code consistently.(ô§ğ…ùÿÿÿÿ
+=
+java:S1659Ü"!Declare "end" on a separate line.(ÍôÁÑıÿÿÿÿ
+[
+java:S1120‹"DMake this line start after 4 spaces to indent the code consistently.(ı¸’
+6
+java:S1659 "Declare "j" on a separate line.(±é…
+?
+java:S1659©"#Declare "hours" on a separate line.(ÚåÏ¾üÿÿÿÿ
+c
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ8Ë‡ìø“.
+a
+java:S1120+"DMake this line start after 6 spaces to indent the code consistently.(¢Ã½¾8Ë‡ìø“.
+k
+java:S1107*"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ8Ë‡ìø“.

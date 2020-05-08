@@ -1,0 +1,36 @@
+
+[
+java:S1312"@Rename the "log" logger to comply with the format "LOG(?:GER)?".(âÔ½øşÿÿÿÿ
+S
+java:S1213"8Move this variable to comply with Java Code Conventions.(âÔ½øşÿÿÿÿ
+S
+java:S1213"8Move this variable to comply with Java Code Conventions.(µñÂÿÿÿÿÿ
+S
+java:S1213"8Move this variable to comply with Java Code Conventions.(Õ ëöüÿÿÿÿ
+N
+java:S1213"8Move this variable to comply with Java Code Conventions.(¿ú´
+S
+java:S1213"8Move this variable to comply with Java Code Conventions.(³×Ø–úÿÿÿÿ
+S
+java:S1213"8Move this variable to comply with Java Code Conventions.(ë¤ ¸ıÿÿÿÿ
+\
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(×Ş‚…ùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÉÒçèúÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·òşÿÿÿÿ
+W
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(áªÿ€
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ÉÒçèúÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÀÖàûÿÿÿÿ
+Z
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(ƒìäõ
+4
+java:S1451"&Add or update the header of this file.
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉÒçèúÿÿÿÿ
+]
+java:S1774""GConvert this usage of the ternary operator to an "if"/"else" structure.(¢®•×

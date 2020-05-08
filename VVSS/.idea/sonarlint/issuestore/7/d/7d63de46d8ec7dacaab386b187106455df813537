@@ -1,0 +1,51 @@
+
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(›è÷ï
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰§ÛÃşÿÿÿÿ
+\
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(§“½½ûÿÿÿÿ
+c
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(è÷û™üÿÿÿÿ8€õ»ˆ“.
+f
+java:S1120%"DMake this line start after 6 spaces to indent the code consistently.(¬‡ùÙûÿÿÿÿ8²Ÿ»ˆ“.
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‰ÑŒT
+e
+java:S1107'"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬8²Ÿ»ˆ“.
+W
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+_
+java:S1120("DMake this line start after 6 spaces to indent the code consistently.(ïù°¶úÿÿÿÿ
+Y
+java:S1120-"DMake this line start after 4 spaces to indent the code consistently.(—ô7
+Z
+java:S11205"DMake this line start after 4 spaces to indent the code consistently.(­¶¡
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Ì…©‘úÿÿÿÿ
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(İÖ‚­ùÿÿÿÿ
+Y
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¶äãe
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(±€ˆÁ
+f
+java:S1120""DMake this line start after 6 spaces to indent the code consistently.(¬‡ùÙûÿÿÿÿ8€õ»ˆ“.
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(õÈ¿í
+4
+java:S1451"&Add or update the header of this file.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Õ–Óˆøÿÿÿÿ
+t
+java:S14880"^Immediately return this expression instead of assigning it to the temporary variable "result".(é³Çî
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(€ê±Õúÿÿÿÿ
+^
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(£èŒ¸8²Ÿ»ˆ“.
+w
+java:S4174 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŒÔ¬µ8åÒÅˆ“.
+v
+java:S14886"`Immediately return this expression instead of assigning it to the temporary variable "filtered".(’õÍ­
+\
+java:S11064"AMove this left curly brace to the beginning of next line of code.(º‹Æ±øÿÿÿÿ

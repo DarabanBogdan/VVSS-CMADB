@@ -1,0 +1,283 @@
+
+d
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¿§íşÿÿÿÿ8®™†“.
+g
+java:S1120­"DMake this line start after 4 spaces to indent the code consistently.(¿é»Üùÿÿÿÿ8ŠšØ‡“.
+a
+java:S1120l"DMake this line start after 6 spaces to indent the code consistently.(›¸ç8ŠšØ‡“.
+]
+java:S1213";Move this constructor to comply with Java Code Conventions.(Ü×±øÿÿÿÿ8®™†“.
+v
+java:S2975Ç"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(®Ç‹¹şÿÿÿÿ8ŠšØ‡“.
+9
+java:S2384$"Store a copy of "time".(™ıËßıÿÿÿÿ8®™†“.
+b
+java:S1312"@Rename the "log" logger to comply with the format "LOG(?:GER)?".(à¿¦¯ùÿÿÿÿ8®™†“.
+9
+java:S2384M"Store a copy of "time".(“–÷¨şÿÿÿÿ8®™†“.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ª¿ê…úÿÿÿÿ8®™†“.
+a
+java:S1120="DMake this line start after 4 spaces to indent the code consistently.(¦Ó×8ŠšØ‡“.
+a
+java:S1120W"DMake this line start after 4 spaces to indent the code consistently.(Ş½Óù8ŠšØ‡“.
+f
+java:S11209"DMake this line start after 4 spaces to indent the code consistently.(„ÌˆÊúÿÿÿÿ8ŠšØ‡“.
+c
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(ëâùìşÿÿÿÿ8®™†“.
+^
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(—éÒë8®™†“.
+b
+java:S1941l"EMove the declaration of "timeBefore" closer to the code that uses it.(›¸ç8¯™†“.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ü×±øÿÿÿÿ8®™†“.
+f
+java:S1120)"DMake this line start after 4 spaces to indent the code consistently.(Ì­ïŒşÿÿÿÿ8ŠšØ‡“.
+f
+java:S1120D"DMake this line start after 4 spaces to indent the code consistently.(ö¦ôˆüÿÿÿÿ8ŠšØ‡“.
+i
+java:S1774Z"GConvert this usage of the ternary operator to an "if"/"else" structure.(’ÔÇøÿÿÿÿ8¯™†“.
+5
+java:S2384H"Return a copy of "time".(˜Äå¯8®™†“.
+5
+java:S2384_"Store a copy of "start".( ™€Ñ8®™†“.
+f
+java:S1120*"DMake this line start after 6 spaces to indent the code consistently.(¬¼ãâøÿÿÿÿ8ŠšØ‡“.
+9
+java:S2384&"Store a copy of "time".(Å–ê±ùÿÿÿÿ8®™†“.
+d
+java:S1106Ç"AMove this left curly brace to the beginning of next line of code.(®Ç‹¹şÿÿÿÿ8ŠšØ‡“.
+^
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(°…ÙË8®™†“.
+g
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¿§íşÿÿÿÿ8ŠšØ‡“.
+c
+java:S1106K"AMove this left curly brace to the beginning of next line of code.(…§¢ÿÿÿÿÿ8®™†“.
+f
+java:S1120o"DMake this line start after 8 spaces to indent the code consistently.(¤îìòüÿÿÿÿ8ŠšØ‡“.
+f
+java:S1120L"DMake this line start after 4 spaces to indent the code consistently.(™ıËßıÿÿÿÿ8ŠšØ‡“.
+;
+java:S2384S"Return a copy of "start".(¤îìòüÿÿÿÿ8®™†“.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ìİç¥8®™†“.
+c
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(Î¥­üÿÿÿÿ8®™†“.
+c
+java:S1106)"AMove this left curly brace to the beginning of next line of code.(Ì­ïŒşÿÿÿÿ8®™†“.
+2
+java:S23843"Store a copy of "end".(™ÓÈ28®™†“.
+f
+java:S1120 "DMake this line start after 6 spaces to indent the code consistently.(¬¼ãâøÿÿÿÿ8ŠšØ‡“.
+g
+java:S1120È"DMake this line start after 4 spaces to indent the code consistently.(‰ïûÿÿÿÿ8ŠšØ‡“.
+c
+java:S1106t"AMove this left curly brace to the beginning of next line of code.(´ø•ıûÿÿÿÿ8®™†“.
+K
+java:S1940e")Use the opposite operator ("!=") instead.(‡í€µşÿÿÿÿ8¯™†“.
+d
+java:S1106†"AMove this left curly brace to the beginning of next line of code.(÷Úúÿÿÿÿ8®™†“.
+9
+java:S2384N"Store a copy of "time".(Å–ê±ùÿÿÿÿ8®™†“.
+a
+java:S1120H"DMake this line start after 4 spaces to indent the code consistently.(˜Äå¯8ŠšØ‡“.
+c
+java:S1106d"AMove this left curly brace to the beginning of next line of code.(–Éí™ùÿÿÿÿ8®™†“.
+^
+java:S1106("AMove this left curly brace to the beginning of next line of code.(è…¦8®™†“.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¨—ğûøÿÿÿÿ8®™†“.
+^
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(’Œ×”8®™†“.
+^
+java:S11068"AMove this left curly brace to the beginning of next line of code.(òô¢Ë8®™†“.
+f
+java:S1120."DMake this line start after 6 spaces to indent the code consistently.(µÛ³äøÿÿÿÿ8ŠšØ‡“.
+g
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(›’°µÿÿÿÿÿ8ŠšØ‡“.
+b
+java:S1120’"DMake this line start after 6 spaces to indent the code consistently.(‰ƒÙÚ8ŠšØ‡“.
+X
+java:S1213(";Move this constructor to comply with Java Code Conventions.(è…¦8®™†“.
+9
+java:S2384L"Store a copy of "time".(™ıËßıÿÿÿÿ8®™†“.
+c
+java:S1106k"AMove this left curly brace to the beginning of next line of code.(õÓë¯ùÿÿÿÿ8®™†“.
+5
+java:S23842"Store a copy of "start".( ™€Ñ8®™†“.
+b
+java:S1120€"DMake this line start after 6 spaces to indent the code consistently.(˜Äå¯8ŠšØ‡“.
+c
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(‡¬ñ¤ıÿÿÿÿ8®™†“.
+=
+java:S2885" Make "sdf" an instance variable.(¸‰ˆí8¯™†“.
+_
+java:S1106¬"AMove this left curly brace to the beginning of next line of code.(ğÜşŠ8ŠšØ‡“.
+f
+java:S1120Z"DMake this line start after 4 spaces to indent the code consistently.(’ÔÇøÿÿÿÿ8ŠšØ‡“.
+a
+java:S1120‡"DMake this line start after 4 spaces to indent the code consistently.(ıØ38ŠšØ‡“.
+…
+java:S1541h"cThe Cyclomatic Complexity of this method "nextTimeAfter" is 17 which is greater than 10 authorized.(Î¥­üÿÿÿÿ8¯™†“.
+4
+java:S2384W"Return a copy of "end".(Ş½Óù8®™†“.
+o
+java:S1142h"MReduce the number of returns of this method 6, down to the maximum allowed 3.(Î¥­üÿÿÿÿ8¯™†“.
+f
+java:S1107‘"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬8¯™†“.
+;
+java:S2384o"Return a copy of "start".(¤îìòüÿÿÿÿ8®™†“.
+9
+java:S2384%"Store a copy of "time".(“–÷¨şÿÿÿÿ8®™†“.
+c
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(÷Øƒğûÿÿÿÿ8®™†“.
+:
+java:S2384^"Store a copy of "start".(çÜ»šıÿÿÿÿ8®™†“.
+f
+java:S1120^"DMake this line start after 4 spaces to indent the code consistently.(çÜ»šıÿÿÿÿ8ŠšØ‡“.
+;
+java:S1451"&Add or update the header of this file.8¯™†“.
+:
+java:S23845"Store a copy of "start".(çÜ»šıÿÿÿÿ8®™†“.
+t
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Î¥­üÿÿÿÿ8¯™†“.
+_
+java:S1106Œ"AMove this left curly brace to the beginning of next line of code.(®Óê˜8®™†“.
+c
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(ñÚÍşÿÿÿÿ8®™†“.
+c
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(„êŞÚıÿÿÿÿ8®™†“.
+`
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¡ôĞ08ŠšØ‡“.
+f
+java:S1120S"DMake this line start after 4 spaces to indent the code consistently.(¤îìòüÿÿÿÿ8ŠšØ‡“.
+2
+java:S2384`"Store a copy of "end".(™ÓÈ28®™†“.
+6
+java:S2384€"Return a copy of "time".(˜Äå¯8®™†“.
+f
+java:S1120e"DMake this line start after 4 spaces to indent the code consistently.(‡í€µşÿÿÿÿ8ŠšØ‡“.
+a
+java:S1120@"DMake this line start after 4 spaces to indent the code consistently.(¥­­8ŠšØ‡“.
+b
+java:S1120Š"DMake this line start after 4 spaces to indent the code consistently.(çıÒó8ŠšØ‡“.
+f
+java:S1941m"DMove the declaration of "timeAfter" closer to the code that uses it.(¨»á²üÿÿÿÿ8¯™†“.
+a
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ìİç¥8ŠšØ‡“.
+_
+java:S1106‰"AMove this left curly brace to the beginning of next line of code.(€×†İ8®™†“.
+o	java:S134t"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(´ø•ıûÿÿÿÿ8­›ıö“.
+o	java:S134w"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(ª«­Üúÿÿÿÿ8­›ıö“.
+]
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(ïä†N8­›ıö“.
+^
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(˜ºñ8­›ıö“.
+c
+java:S1106n"AMove this left curly brace to the beginning of next line of code.(‚Ü§¼ÿÿÿÿÿ8­›ıö“.
+c
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(ØìÑÇıÿÿÿÿ8­›ıö“.
+^
+java:S1106s"AMove this left curly brace to the beginning of next line of code.(­Áˆ8­›ıö“.
+c
+java:S1106w"AMove this left curly brace to the beginning of next line of code.(ª«­Üúÿÿÿÿ8­›ıö“.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¦¿Üüÿÿÿÿ8­›ıö“.
+_
+java:S1106‘"AMove this left curly brace to the beginning of next line of code.(á¢–¬8­›ıö“.
+d
+java:S1106–"AMove this left curly brace to the beginning of next line of code.(âÖ¤µùÿÿÿÿ8­›ıö“.
+_
+java:S1106—"AMove this left curly brace to the beginning of next line of code.(¢úë8­›ıö“.
+d
+java:S1106™"AMove this left curly brace to the beginning of next line of code.(¨Ş§Ãøÿÿÿÿ8­›ıö“.
+d
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…ñª®úÿÿÿÿ8­›ıö“.
+d
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(Æ‡œšÿÿÿÿÿ8­›ıö“.
+_
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(îÇËò8­›ıö“.
+_
+java:S1106¤"AMove this left curly brace to the beginning of next line of code.(å­¦ş8­›ıö“.
+_
+java:S1106¦"AMove this left curly brace to the beginning of next line of code.(šÇÔº8­›ıö“.
+_
+java:S1106²"AMove this left curly brace to the beginning of next line of code.(£â˜å8­›ıö“.
+_
+java:S1106µ"AMove this left curly brace to the beginning of next line of code.(å¥‡8­›ıö“.
+_
+java:S1106¼"AMove this left curly brace to the beginning of next line of code.(Á»›ê8­›ıö“.
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(üÔ…øúÿÿÿÿ8­›ıö“.
+a
+java:S1120i"DMake this line start after 4 spaces to indent the code consistently.(˜ºñ8­›ıö“.
+f
+java:S1120j"DMake this line start after 6 spaces to indent the code consistently.(Ášù¤ûÿÿÿÿ8­›ıö“.
+a
+java:S1120s"DMake this line start after 8 spaces to indent the code consistently.(­Áˆ8­›ıö“.
+g
+java:S1120t"EMake this line start after 10 spaces to indent the code consistently.(´ø•ıûÿÿÿÿ8­›ıö“.
+b
+java:S1120u"EMake this line start after 12 spaces to indent the code consistently.(åƒÙœ8­›ıö“.
+g
+java:S1120x"EMake this line start after 12 spaces to indent the code consistently.(… õşÿÿÿÿ8­›ıö“.
+b
+java:S1120—"DMake this line start after 4 spaces to indent the code consistently.(¢úë8­›ıö“.
+b
+java:S1120˜"DMake this line start after 6 spaces to indent the code consistently.(Êşƒ8­›ıö“.
+g
+java:S1120š"DMake this line start after 6 spaces to indent the code consistently.(”‰‘»üÿÿÿÿ8­›ıö“.
+g
+java:S1120Ÿ"DMake this line start after 6 spaces to indent the code consistently.(”‰‘»üÿÿÿÿ8­›ıö“.
+g
+java:S1120¡"DMake this line start after 6 spaces to indent the code consistently.(”‰‘»üÿÿÿÿ8­›ıö“.
+g
+java:S1120£"DMake this line start after 6 spaces to indent the code consistently.(”‰‘»üÿÿÿÿ8­›ıö“.
+g
+java:S1120¥"DMake this line start after 6 spaces to indent the code consistently.(”‰‘»üÿÿÿÿ8­›ıö“.
+g
+java:S1120§"DMake this line start after 6 spaces to indent the code consistently.(”‰‘»üÿÿÿÿ8­›ıö“.
+g
+java:S1120³"DMake this line start after 6 spaces to indent the code consistently.(äùØ—úÿÿÿÿ8­›ıö“.
+b
+java:S1120¶"DMake this line start after 6 spaces to indent the code consistently.(§‹—‹8­›ıö“.
+b
+java:S1120½"DMake this line start after 4 spaces to indent the code consistently.(òîÚ«8­›ıö“.
+[
+java:S2039"9Explicitly declare the visibility for "serialVersionUID".(üÔ…øúÿÿÿÿ8­›ıö“.
+n
+java:S1206¬"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8­›ıö“.
+A
+java:S4926"Remove this "serialVersionUID".(üÔ…øúÿÿÿÿ8­›ıö“.
+Q
+java:S1109j"/Move this closing curly brace to the next line.(Ášù¤ûÿÿÿÿ8­›ıö“.
+w
+java:S4174q"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±Ø”ë8­›ıö“.
+F
+java:S2143u")Use the Java 8 Date and Time API instead.(åƒÙœ8­›ıö“.
+W	java:S139x"6Move this trailing comment on the previous empty line.(… õşÿÿÿÿ8­›ıö“.
+F
+java:S2143{")Use the Java 8 Date and Time API instead.(¦Õ‹Œ8­›ıö“.
+x
+java:S1201–"UEither override Object.equals(Object), or rename the method to prevent any confusion.(âÖ¤µùÿÿÿÿ8­›ıö“.
+M
+java:S1109˜"/Move this closing curly brace to the next line.(Êşƒ8­›ıö“.
+R
+java:S1109š"/Move this closing curly brace to the next line.(”‰‘»üÿÿÿÿ8­›ıö“.
+R
+java:S1109Ÿ"/Move this closing curly brace to the next line.(”‰‘»üÿÿÿÿ8­›ıö“.
+R
+java:S1109¡"/Move this closing curly brace to the next line.(”‰‘»üÿÿÿÿ8­›ıö“.
+R
+java:S1109£"/Move this closing curly brace to the next line.(”‰‘»üÿÿÿÿ8­›ıö“.
+R
+java:S1109¥"/Move this closing curly brace to the next line.(”‰‘»üÿÿÿÿ8­›ıö“.
+R
+java:S1109§"/Move this closing curly brace to the next line.(”‰‘»üÿÿÿÿ8­›ıö“.
+p
+java:S1142–"MReduce the number of returns of this method 8, down to the maximum allowed 3.(âÖ¤µùÿÿÿÿ8­›ıö“.
+O
+java:S1108µ"1Move this "else" keyword to a new dedicated line.(å¥‡8­›ıö“.
+F
+java:S1125²"(Remove the literal "true" boolean value.(£â˜å8­›ıö“.
+^	java:S125œ"<This block of commented-out lines of code should be removed.(²…ÊÇúÿÿÿÿ8­›ıö“.

@@ -1,0 +1,53 @@
+
+a
+java:S1120&"DMake this line start after 4 spaces to indent the code consistently.(Ğ¼â‹8‘Õ™‡“.
+b
+java:S1120="EMake this line start after 14 spaces to indent the code consistently.(¯á8‘Õ™‡“.
+E
+java:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘Õ™‡“.
+f
+java:S1120C"DMake this line start after 4 spaces to indent the code consistently.(±Š¢øÿÿÿÿ8‘Õ™‡“.
+c
+java:S11068"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ8‘Õ™‡“.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ì®¯8‘Õ™‡“.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ù‰ï…8‘Õ™‡“.
+f
+java:S1120+"DMake this line start after 6 spaces to indent the code consistently.(µŠÎûÿÿÿÿÿ8‘Õ™‡“.
+I
+java:S1602<",Remove useless curly braces around statement(çöÔˆ8‘Õ™‡“.
+^
+java:S1106B"AMove this left curly brace to the beginning of next line of code.(Çµí‘8‘Õ™‡“.
+f
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¢Ñû¦ûÿÿÿÿ8‘Õ™‡“.
+a
+java:S1120("DMake this line start after 6 spaces to indent the code consistently.(¶³¡–8‘Õ™‡“.
+5
+java:S2211<"Specify a type for: 'we'(çöÔˆ8‘Õ™‡“.
+c
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8‘Õ™‡“.
+^
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(Ïã‚¤8‘Õ™‡“.
+Q
+java:S1444"4Make this "public static savedTasksFile" field final(¼Çü¦8‘Õ™‡“.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğÕÈ€8‘Õ™‡“.
+w
+java:S1104"ZMake savedTasksFile a static final constant or non-public and provide accessors if needed.(¼Çü¦8‘Õ™‡“.
+_
+java:S3032"=Use "Thread.currentThread().getContextClassLoader()" instead.(ı¢°Øşÿÿÿÿ8‘Õ™‡“.
+;
+java:S1451"&Add or update the header of this file.8‘Õ™‡“.
+G
+java:S11668"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ8‘Õ™‡“.
+T
+java:S1444"2Make this "public static primaryStage" field final(¢Ñû¦ûÿÿÿÿ8‘Õ™‡“.
+z
+java:S1104"XMake primaryStage a static final constant or non-public and provide accessors if needed.(¢Ñû¦ûÿÿÿÿ8‘Õ™‡“.
+]
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(óÂÚR8‘Õ™‡“.
+]
+java:S1312"@Rename the "log" logger to comply with the format "LOG(?:GER)?".(şêâÊ8‘Õ™‡“.
+k
+java:S11078"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ8‘Õ™‡“.
+f
+java:S11209"DMake this line start after 6 spaces to indent the code consistently.(€ÉÔ…ıÿÿÿÿ8‘Õ™‡“.

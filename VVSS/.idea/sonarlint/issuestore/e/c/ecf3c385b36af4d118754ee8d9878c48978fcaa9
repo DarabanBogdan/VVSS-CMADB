@@ -1,0 +1,112 @@
+
+[
+java:S1120˜"DMake this line start after 4 spaces to indent the code consistently.(÷ÌÃò
+¨
+java:S1200"‘Split this class into smaller and more specialized ones to reduce its dependencies on other classes from 23 to the maximum authorized 20 or less.(Øó´Ÿ
+H
+java:S1444""2Make this "public static editNewStage" field final(¿‰‚×
+e
+java:S1107ƒ"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(ÁÄûöşÿÿÿÿ
+C
+java:S2208".Explicitly import the specific classes needed.(ßõ
+Q
+java:S2696@"6Make the enclosing method "static" or remove this set.(ôé½ºûÿÿÿÿ
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(½å•
+[
+java:S1120‰"DMake this line start after 4 spaces to indent the code consistently.(ãÎ×
+Z
+java:S1120k"DMake this line start after 6 spaces to indent the code consistently.(ÀÏ–¾
+p
+java:S1104"UMake tasksList a static final constant or non-public and provide accessors if needed.(ß·Š¢ÿÿÿÿÿ
+e
+java:S3242U"OUse 'java.util.EventObject' here; it is a more general type than 'ActionEvent'.(ñÛ‘ì
+p
+java:S1104#"UMake infoStage a static final constant or non-public and provide accessors if needed.(ßÏ¬Üùÿÿÿÿ
+n
+java:S1104""XMake editNewStage a static final constant or non-public and provide accessors if needed.(¿‰‚×
+J
+java:S1444#"/Make this "public static infoStage" field final(ßÏ¬Üùÿÿÿÿ
+L
+java:S2696Z"6Make the enclosing method "static" or remove this set.(ã¯›ğ
+]
+java:S1106ƒ"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ
+[
+java:S1120C"EMake this line start after 18 spaces to indent the code consistently.(„Áß½
+_
+java:S1120K"DMake this line start after 4 spaces to indent the code consistently.(É±Àÿÿÿÿÿ
+X
+java:S1106—"AMove this left curly brace to the beginning of next line of code.(í€’¸
+Z
+java:S1120Q"DMake this line start after 4 spaces to indent the code consistently.(Ø€ö­
+@
+java:S1166j"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ
+`
+java:S1120„"DMake this line start after 6 spaces to indent the code consistently.(‰ø‘şüÿÿÿÿ
+J
+java:S2039 "4Explicitly declare the visibility for "dateService".(–÷ İ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Øó´Ÿ
+d
+java:S1107j"IMove this "catch" on the same line that the previous closing curly brace.(©œ¡ÿÿÿÿÿ
+]
+java:S1106ˆ"AMove this left curly brace to the beginning of next line of code.(û„ù•şÿÿÿÿ
+_
+java:S1120p"DMake this line start after 4 spaces to indent the code consistently.(¦ºÙ¥ùÿÿÿÿ
+W
+java:S1106u"AMove this left curly brace to the beginning of next line of code.(úíÌ’
+W
+java:S1106U"AMove this left curly brace to the beginning of next line of code.(ñÛ‘ì
+4
+java:S1451"&Add or update the header of this file.
+\
+java:S1106j"AMove this left curly brace to the beginning of next line of code.(©œ¡ÿÿÿÿÿ
+L
+java:S2696€"6Make the enclosing method "static" or remove this set.(–ÌJ
+\
+java:S1106v"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+\
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+Z
+java:S1120V"DMake this line start after 4 spaces to indent the code consistently.(è¶–
+E
+java:S1444%"/Make this "public static mainTable" field final(ãÖĞ·
+\
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(·òşÿÿÿÿ
+`
+java:S1120“"DMake this line start after 4 spaces to indent the code consistently.(ó¹´÷ùÿÿÿÿ
+V
+java:S1312"@Rename the "log" logger to comply with the format "LOG(?:GER)?".(½å•
+A
+java:S1166ƒ"%Either log or rethrow this exception.(©œ¡ÿÿÿÿÿ
+W
+java:S1106o"AMove this left curly brace to the beginning of next line of code.(Ç¸û—
+\
+java:S1106:"AMove this left curly brace to the beginning of next line of code.(¼ÁÁ±üÿÿÿÿ
+_
+java:S1120v"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿ
+]
+java:S1106’"AMove this left curly brace to the beginning of next line of code.(–İåâûÿÿÿÿ
+K
+java:S2039"0Explicitly declare the visibility for "service".(†‚¤÷úÿÿÿÿ
+Z
+java:S1120;"DMake this line start after 4 spaces to indent the code consistently.(ÜŒˆ’
+k
+java:S1104%"UMake mainTable a static final constant or non-public and provide accessors if needed.(ãÖĞ·
+W
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(ƒÑ»¨
+P
+java:S1258":Add a constructor to the class, or provide default values.(Øó´Ÿ
+_
+java:S1120w"DMake this line start after 6 spaces to indent the code consistently.(ƒÑÀ·ùÿÿÿÿ
+Z
+java:S1120Z"DMake this line start after 6 spaces to indent the code consistently.(ã¯›ğ
+w
+java:S4174b"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äúª8ë–ıö“.
+|
+java:S4174c"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÆÍ‡Çùÿÿÿÿ8ë–ıö“.
+w
+java:S4174z"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(äúª8ë–ıö“.
+|
+java:S4174{"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ĞÿÒıÿÿÿÿ8ë–ıö“.

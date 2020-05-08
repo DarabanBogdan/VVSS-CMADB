@@ -1,0 +1,44 @@
+
+4
+java:S1451"&Add or update the header of this file.
+P	java:S139"6Move this trailing comment on the previous empty line.(©—ÈÉüÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(æø†g
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(–İĞÔøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(©—ÈÉüÿÿÿÿ
+_
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¸çÙ×úÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(„„ş˜
+W
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(¼Ê
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‡‰Û¿ıÿÿÿÿ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ñ¤‘ù
+K	java:S139"6Move this trailing comment on the previous empty line.(„„ş˜
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ô¥“²ùÿÿÿÿ
+K	java:S139*"6Move this trailing comment on the previous empty line.(¼Ê
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(à¹ŠŒ
+Z
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(ÜŒˆ’
+^
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(Ò€Œ€8–ıö“.
+a
+java:S1120""DMake this line start after 6 spaces to indent the code consistently.(ŸåÖ˜8–ıö“.
+`
+java:S1120+"DMake this line start after 4 spaces to indent the code consistently.(æ©À8–ıö“.
+U
+java:S1128	"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8–ıö“.
+M
+java:S1942$"1Replace this fully qualified name with "Calendar"(æ©À8–ıö“.
+M
+java:S1942+"1Replace this fully qualified name with "Calendar"(æ©À8–ıö“.
+E
+java:S2143$")Use the Java 8 Date and Time API instead.(æ©À8–ıö“.
+E
+java:S2143+")Use the Java 8 Date and Time API instead.(æ©À8–ıö“.
